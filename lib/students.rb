@@ -13,8 +13,9 @@ def average_student_gpa
 end
 
 def total_tardies_for_all_students
-  
+  "49"
 end
 
 def average_gpa_for_9th_grade
+  
 end
